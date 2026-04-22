@@ -27,10 +27,6 @@ I am a **Software Engineer** and **AWS Certified Solutions Architect** with a Ma
   * Improved medical NER extraction precision by 35% through iterative prompt engineering, persisting data in **DynamoDB** and **MinIO**.
   * Delivered a fully reproducible, self-hosted deployment using Docker Compose.
 
-* **[Care Management Dashboard (Alphind Software)](./)**
-  * Developed Python backend logic to normalize inconsistent patient records across a care intelligence pipeline.
-  * Optimized PostgreSQL indexing on a **500K+ record database**, cutting dashboard load times by ~30%.
-
 ### 🏋️‍♂️ Discipline & Grit
 Beyond the terminal, I am a competitive powerlifter with a **1,220 lbs total** (315 lbs Bench, 405 lbs Squat, 500 lbs Deadlift). I approach software engineering the exact same way I approach heavy compound lifts: success requires strict discipline, incremental optimization, and an absolute commitment to perfect form.
 
