@@ -3,7 +3,6 @@
 I am a **Software Engineer** and **AWS Certified Solutions Architect** with a Master of Science in Computer Science from the **Illinois Institute of Technology** (Class of 2025). My engineering focus sits at the intersection of scalable web architecture, distributed data processing, and production-grade Machine Learning pipelines.
 
 ### 🔭 Current Focus & Engineering Work
-* **Software Engineering Intern @ AI-RIV Infotech:** Currently architecting scalable Next.js (App Router) applications, engineering reusable abstractions, and enforcing strict TypeScript correctness across multiple production codebases.
 * **Algorithm Mastery:** Executing a high-intensity 30-day algorithm sprint focused on solving Hard-tier LeetCode challenges in < 30 minutes, optimizing strictly for $O(n)$ or $O(n \log n)$ time complexity.
 
 ### 🛠️ Technical Arsenal
